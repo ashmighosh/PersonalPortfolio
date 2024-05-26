@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ashmi Ghosh's Portfolio</title>
+    <style>
+        body {
+            background-color: #ffffff;
+            color: #000000;
+            font-family: Cambria, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header, footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        header h1, h2, h3 {
+            color: #888888;
+        }
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #ffffff;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        a {
+            color: #000000;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ashmi Ghosh</h1>
+        <p>Kolkata, India</p>
+        <p>Email: <a href="mailto:ashmighosh305@gmail.com">ashmighosh305@gmail.com</a> | Phone: +91 999999999</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/ashmighosh" target="_blank">ashmighosh</a> | Leetcode: <a href="https://leetcode.com/u/ashkey/" target="_blank">@ashmi_ghosh</a></p>
+        <p>Female | 03/05/2002 | Indian</p>
+    </header>
+
+    <section>
+        <h2>Objective</h2>
+        <p>I am actively seeking an opportunity to leverage my skills and expertise to contribute positively to the growth of an organization. As a collaborative team member, I excel in high-paced environments. I am dedicated to ongoing professional development and readily embrace novel challenges.</p>
+
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>Programming Languages: JAVA, C++.</li>
+            <li>Object Oriented Programming (OOP): Knowledgeable in JAVA and applying OOPs concepts.</li>
+            <li>Data Structures and Algorithms: Acquainted with arrays, stacks and queues.</li>
+            <li>Database: Basics of SQL</li>
+            <li>Cyber security: Familiar with cyber security attacks, frameworks, compliances, ethics and tools.</li>
+            <li>Web Design: HTML (basics).</li>
+            <li>Office Suite: Ability to work in Microsoft Word, Excel, and PowerPoint.</li>
+        </ul>
+
+        <h2>Behavioral Skills</h2>
+        <ul>
+            <li>Effective Communication: Clear verbal and written communication skills.</li>
+            <li>Team Collaboration: Proven ability to work seamlessly in team environments.</li>
+            <li>Time Management: Efficient time management and task prioritization.</li>
+            <li>Creative Thinking: Innovative approach to engineering problem-solving.</li>
+            <li>Critical Thinking: Application of critical thinking for process improvement.</li>
+        </ul>
+
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>Underground Cable Fault Detector [03/2023 – 05/2023]</strong><br>
+                An advanced device which is used to identify and locate faults in underground cables which ensures efficient repairs.<br>
+                Technologies and Components used: Arduino Nano, LCD Display, Wires and Connectors, Programming Arduino using Arduino IDE.</li>
+            <li><strong>Heart Beat Monitoring System [07/2023 – 08/2023]</strong><br>
+                A device or system which can track and will display an individual’s heart rate in real-time for medical monitoring purposes.<br>
+                Technologies and Components used: NodeMCU ESP8266, Heart Beat Sensor, ThingSpeak Cloud, Arduino IDE.</li>
+            <li><strong>Handwritten Text Recognition [10/2023 – ongoing]</strong><br>
+                A universal and adaptive Machine Learning handwritten digit and character recognition algorithm.<br>
+                Technologies used: Python, Tensorflow.</li>
+        </ul>
+
+        <h2>Education</h2>
+        <ul>
+            <li><strong>B. Tech in Electronics and Communication Engineering | 2020-2024 | Current CGPA: 9.03/10.0</strong><br>
+                B. P. Poddar Institute of Management and Technology | MAKAUT | Kolkata</li>
+            <li><strong>WBCHSE | 2020 | Percentage Scored: 87.4%</strong><br>
+                Pathfinder Higher Secondary Public School | Durgapur</li>
+            <li><strong>ICSE | 2018 | Percentage Scored: 85.2%</strong><br>
+                Pranavananda Vidya Mandir & Gairik | Durgapur</li>
+        </ul>
+
+        <h2>Certifications</h2>
+        <ul>
+            <li><a href="https://www.coursera.org/account/accomplishments/verify/58KYAC7EBDY4" target="_blank">Foundations of Cybersecurity, Google [2023]</a></li>
+            <li><a href="https://www.coursera.org/account/accomplishments/verify/KKC9PAZVMYCX" target="_blank">Object-Oriented Programming in Java, Coursera [2023]</a></li>
+             <li><a href="https://verify.mygreatlearning.com/verify/ORMCDUIR" target="_blank">Java Data Structures (Beginners), Great-Learning [2023]</a></li>
+        </ul>
+
+        <h2>Languages</h2>
+        <ul>
+            <li>English</li>
+            <li>Bengali</li>
+            <li>Hindi</li>
+        </ul>
+
+        <h2>Interests</h2>
+        <ul>
+            <li>Painting</li>
+            <li>Travelling</li>
+            <li>Dancing</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Ashmi Ghosh. All rights reserved.</p>
+    </footer>
+</body>
+</html>
